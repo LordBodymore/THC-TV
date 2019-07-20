@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E01.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E02.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E03.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E04.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E05.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E06.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E07.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E08.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E09.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E10.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E11.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E12.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%201/The.Wire.S01E13.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E01.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E02.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E03.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E04.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E05.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E06.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E07.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E08.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E09.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E10.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E11.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%202/The.Wire.S02E12.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E01.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E02.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E04.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E05.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E06.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E07.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E08.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E09.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E10.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E11.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%203/The.Wire.S03E12.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E01.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E02.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E03.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E04.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E05.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E06.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E07.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E08.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E09.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E10.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E11.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E12.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%204/The.Wire.S04E13.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E01.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E02.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E03.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E04.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E05.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E06.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E07.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E08.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E09.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.130.23.244/TV%20Shows%20A/The%20Wire/Season%205/The.Wire.S05E10.720p.BluRay.nHD.x264-NhaNc3.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+	</extension>
+</playlist>
